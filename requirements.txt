@@ -3,7 +3,7 @@ wandb
 tqdm
 accelerate==1.4.0
 codetiming==1.4.0
-datasets==3.3.2
+datasets==5.0.1
 filelock==3.18.0
 flash_attn==2.7.4.post1
 liger_kernel==0.5.6
